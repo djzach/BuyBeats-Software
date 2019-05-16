@@ -1,17 +1,23 @@
   <!DOCTYPE html>
-  <html charset="utf-8" dir="ltr">
+  <html lang="en" dir="ltr">
   <head>
-  
-    <meta>
+    
+    <meta charset="utf-8">
     <title>Login/Sign Up</title>
     
   </head>
   
   <body>
     <div>
-      <form id="login-request-form" class="login" name="login-form" method="POST"></form>
+      <form id="login-request-form" class="login" name="login-form" method="POST">
+        <button class="login">Username</button>
+      </form>
+      
     </div>
   
+    <script>
+      include "ajax-request.js";
+    </script>
   </body>
   
   </html>
