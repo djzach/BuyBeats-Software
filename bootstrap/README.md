@@ -1,4 +1,5 @@
 This is the path for the Bootstrap repository if you would like to know the basic documentation of the bootstrap group. 
+##To reference the use of the bootstrap elements include "bootstrapcss-include-page.php" in your php code.
 
 Precompiled Bootstrap
 Once downloaded, unzip the compressed folder and you’ll see something like this:
