@@ -10,7 +10,7 @@
 <html lang="en" dir="ltr">
 
   <head>
-    <-- 
+    <!-- 
     Bootstrap Installation 
         Using CDN in this file by line 22, 23, and at end. In future will make reference sheet.
     -->
@@ -33,7 +33,7 @@
       </div>
     </div>
     
-    <-- Navbar from Bootstrap example -->
+    <!-- Navbar from Bootstrap example -->
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">Navbar</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -69,7 +69,7 @@
     </form>
   </div>
 </nav>      
-    <-- end -->
+    <!-- end -->
   
   </body>
   
