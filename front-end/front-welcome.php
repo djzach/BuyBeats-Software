@@ -10,7 +10,10 @@
 <html lang="en" dir="ltr">
 
   <head>
-    <-- Bootstrap Installation -->
+    <-- 
+    Bootstrap Installation 
+        Using CDN in this file by line 22, 23, and at end. In future will make reference sheet.
+    -->
     <meta charset="utf-8">
     <meta http-equiv = "X-UA-Compatible" content= "IE = edge">
     <meta name = "viewport" content = "width = device-width, intial scale = 1">
