@@ -1,6 +1,12 @@
 
 <!DOCTYPE html>
-
+<? $sessionToken = startSession();
+  if ($sessionToken = startSession(){
+   $sessionVer = true;
+  } else {
+   $sessionVer = false;
+  }
+?>
 <html lang="en" dir="ltr">
 
   <head>
