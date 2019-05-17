@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 
 <?php 
-  include bootstrapcss-include-page.php
+  /* Fix include method for Bootstrap */
+  include "bootstrapcss-include-page.php";
 ?>
   
 <html>
