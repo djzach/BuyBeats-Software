@@ -19,3 +19,5 @@ git push -u origin master
   Bootstrap | JS, CSS
   AJAX | JSON, Server
   Dust.js | JS
+
+__List of things to get done:__
