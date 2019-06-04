@@ -1,0 +1,36 @@
+
+  :root {
+    --contentFlow : 0px 3px;
+  
+  }
+  
+  //import light robot font
+  @font-face {
+    font-family: examplefont;
+    src: local(Example Font),
+         url('examplefont.woff') format("woff"),
+         url('examplefont.otf') format("opentype");
+  }
+  
+  //for top banner image
+  .header-image-content-readjust {
+    position: absolute;
+    flex-basis: auto;
+    flex-grow: auto;
+    flex-shrink: auto;
+    box-sizing: border-box;
+    width: 100%;
+    border: solid #5B6DCD 0px;
+    padding: 0px;
+  }
+  
+  //for header container growth 
+  .header-container-growth-auto {
+  
+  }
+  
+  
+  
+  
+  
+  
